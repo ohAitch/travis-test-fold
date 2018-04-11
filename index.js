@@ -6,4 +6,5 @@ travis_fold:start:test.2
 baz
 bam
 travis_fold:start:test.3
-travis_fold:end:`)
+travis_fold:end:test.2
+`)
