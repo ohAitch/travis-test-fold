@@ -1,9 +1,9 @@
 console.log(`
 foo
-travis:fold_start:test.1
+travis_fold:start:test.1
 bar
-travis:fold_start:test.2
+travis_fold:start:test.2
 baz
 bam
-travis:fold_start:test.3
+travis_fold:start:test.3
 `)
